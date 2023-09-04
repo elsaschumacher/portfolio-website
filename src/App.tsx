@@ -1,16 +1,14 @@
 import Header from "./components/Header";
-import ElsaImage from "./assets/elsa.jpg";
+import Hero from "./components/Introduction";
+import Skills from "./components/Skills";
 
 function App() {
   return (
     <>
       <Header />
-      <main>
-        <section>
-          <h2>Hi! I'm Elsa Schumacher!</h2>
-          <img src={ElsaImage} />
-          <p>I am a 3rd year computer science student at Aalto University. </p>
-        </section>
+      <main className="flex flex-col items-center gap-[15vh] my-24">
+        <Hero />
+        <Skills />
       </main>
     </>
   );
