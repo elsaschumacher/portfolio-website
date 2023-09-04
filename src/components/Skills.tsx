@@ -1,7 +1,7 @@
 const Skills = () => (
   <section>
     <h2 className="text-4xl text-center mb-4 font-semibold">My Skills</h2>
-    <ul className="grid grid-cols-4 gap-4">
+    <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
       <li className="text-center">
         <h3 className="font-semibold">Tools</h3>
         <ul>

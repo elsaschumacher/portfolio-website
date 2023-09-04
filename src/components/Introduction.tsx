@@ -1,7 +1,7 @@
 import ElsaImage from "../assets/elsa.jpg";
 
 const Hero = () => (
-  <section className="flex gap-4 items-center p-4 rounded-lg">
+  <section className="flex flex-col md:flex-row gap-8 items-center p-4 rounded-lg">
     <img
       src={ElsaImage}
       className="w-96 ring-2 ring-neutral-950 shadow-lg rounded-lg drop-shadow-lg"
