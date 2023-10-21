@@ -1,15 +1,15 @@
 const Experiences = () => (
-  <section className="text-center max-w-lg space-y-5">
+  <section className="text-center max-w-lg space-y-5 p-4">
     <h2 className="text-4xl text-center mb-5 font-semibold">Experience</h2>
     <div className="space-y-2">
-      <span className="text-2xl font-bold">Work</span>
+      <span className="text-2xl font-bold text-center">Work</span>
       <div className="space-y-1">
         <p>
           <span className="font-semibold text-lg">Teaching Assistant</span>
           <br />
           <span className="italic">Aalto University, Sept 2023 - Dec 2023</span>
           <br />
-          <span className="max-w-lg ">
+          <span className="max-w-lg">
             Working as a teaching assistant for the Software Engineering course.
             Providing students valuable feedback and enhancing their learning,
             working in a team with other assistants!
@@ -18,7 +18,7 @@ const Experiences = () => (
       </div>
     </div>
     <div className="space-y-2">
-      <span className="text-2xl font-bold">Volunteer</span>
+      <span className="text-2xl font-bold text-center">Volunteer</span>
       <div className="space-y-1">
         <p>
           <span className="font-semibold text-lg">Head of Communications</span>
