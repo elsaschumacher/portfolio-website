@@ -1,6 +1,6 @@
 const Header = () => (
-  <header className="bg-indigo-200 flex justify-between p-4 items-center">
-    <h1 className="text-lg">Elsa Schumacher</h1>
+  <header className="bg-[#afc0c7] flex justify-between p-4 items-center shadow-md">
+    <h1 className="text-2xl font-semibold">Elsa Schumacher</h1>
     <ul className="flex gap-3">
       <li>
         <a
