@@ -9,8 +9,9 @@ const Hero = () => (
       <p>
         I am a third-year Computer Science student at Aalto University. I'm very
         hard working and enthusiastic about the software industry. My minor is
-        in Industrial Engineering and Management and I am interested in business
-        meets software.
+        in Industrial Engineering and Management and I'm excited about the
+        intersection of technology and business and how software solutions can
+        drive innovation and efficiency in different industries.
       </p>
     </div>
   </section>

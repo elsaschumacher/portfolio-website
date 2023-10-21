@@ -24,6 +24,7 @@ const Skills = () => (
         <ul>
           <li>Git</li>
           <li>Linux/Unix</li>
+          <li>WSL</li>
         </ul>
       </li>
       <li className="text-center">
@@ -71,6 +72,7 @@ const Skills = () => (
         <ul>
           <li>Express</li>
           <li>Mongo</li>
+          <li>SQL</li>
         </ul>
       </li>
       <li className="text-center">
