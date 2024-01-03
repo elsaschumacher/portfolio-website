@@ -47,6 +47,7 @@ const Skills = () => (
         </h3>
         <ul>
           <li>React</li>
+          <li>Next.js</li>
           <li>HTML/CSS</li>
           <li>Tailwind CSS</li>
         </ul>
@@ -73,6 +74,8 @@ const Skills = () => (
           <li>Express</li>
           <li>Mongo</li>
           <li>SQL</li>
+          <li>.NET</li>
+          <li>Node.js</li>
         </ul>
       </li>
       <li className="text-center">
@@ -97,6 +100,7 @@ const Skills = () => (
           <li>Scala</li>
           <li>Python</li>
           <li>C</li>
+          <li>C#</li>
           <li>JavaScript/TypeScript</li>
         </ul>
       </li>
