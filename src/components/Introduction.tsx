@@ -7,11 +7,11 @@ const Hero = () => (
       <h2 className="font-bold text-3xl">Hi, I'm Elsa Schumacher!</h2>
       <br />
       <p>
-        I am a third-year Computer Science student at Aalto University. I'm very
-        hard working and enthusiastic about the software industry. My minor is
-        in Industrial Engineering and Management and I'm excited about the
-        intersection of technology and business and how software solutions can
-        drive innovation and efficiency in different industries.
+        I am a Master's student in Industrial Engineering and Management at Aalto University with 
+        a strong and diverse technical background! Having done my Bachelor's in Computer Science, 
+        I'm excited about the intersection of technology and business, especially product management, 
+        and how software solutions can drive innovation in different industries. I'm very hard-working 
+        with an analytical mindset, ask the right questions and have a passion for learning new things!
       </p>
     </div>
   </section>
