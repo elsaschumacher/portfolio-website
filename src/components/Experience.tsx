@@ -35,6 +35,17 @@ const Experiences = () => (
       <span className="text-2xl font-bold text-center">Volunteer</span>
       <div className="space-y-1">
         <p>
+          <span className="font-semibold text-lg">Head of Academic Affairs</span>
+          <br />
+          <span className="italic">Tietokilta ry, 2024</span>
+          <br />
+          <span>
+            I was a Board Member of the Guild of Computer Science students at Aalto University. 
+            In my role, I acted as a support person for the students of the guild and as a student 
+            advocate in matters related to Computer Science and the School of Science.
+          </span>
+        </p>
+        <p>
           <span className="font-semibold text-lg">Head of Communications</span>
           <br />
           <span className="italic">Tietokilta ry, 2023</span>
