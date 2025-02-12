@@ -10,10 +10,12 @@ const Experiences = () => (
           <span className="italic">Sievo, May 2024 - present</span>
           <br />
           <span>
-            • Developing diverse backend features for Sievo, a procurement analytics software
-            • Working with modern Azure cloud technologies and microservices architecture in an enterprise level application
-            • Collaborating in an agile team environment with frontend/backend engineers, analytics engineers, and product managers 
-            • Working part-time (from Sept. 2024 to now) alongside studies, showing ability to balance responsibility and commitments
+            Developing diverse backend features for Sievo, a procurement analytics software. Working 
+            with modern Azure cloud technologies and microservices architecture in an enterprise 
+            level application. Furthermore, Collaborating in an agile team environment with 
+            frontend/backend engineers, analytics engineers, and product managers. I have been working 
+            part-time (from Sept. 2024 to now) alongside studies, showing ability to 
+            balance responsibility and commitments.
           </span>
         </p>
         <p>
