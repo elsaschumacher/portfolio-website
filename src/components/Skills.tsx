@@ -23,8 +23,10 @@ const Skills = () => (
 
         <ul>
           <li>Git</li>
+          <li>Azure DevOps</li>
           <li>Linux/Unix</li>
-          <li>WSL</li>
+          <li>Claude Code</li>
+          <li>GitHub Copilot</li>
         </ul>
       </li>
       <li className="text-center">
@@ -50,6 +52,7 @@ const Skills = () => (
           <li>Next.js</li>
           <li>HTML/CSS</li>
           <li>Tailwind CSS</li>
+          <li>TypeScript</li>
         </ul>
       </li>
       <li className="text-center">
@@ -71,11 +74,11 @@ const Skills = () => (
           Backend
         </h3>
         <ul>
-          <li>Express</li>
-          <li>Mongo</li>
-          <li>SQL</li>
           <li>.NET</li>
+          <li>SQL Server</li>
+          <li>Azure</li>
           <li>Node.js</li>
+          <li>Express</li>
         </ul>
       </li>
       <li className="text-center">
@@ -97,11 +100,11 @@ const Skills = () => (
           Languages
         </h3>
         <ul>
-          <li>Scala</li>
-          <li>Python</li>
-          <li>C</li>
           <li>C#</li>
           <li>JavaScript/TypeScript</li>
+          <li>Python</li>
+          <li>Scala</li>
+          <li>C</li>
         </ul>
       </li>
     </ul>

@@ -3,19 +3,28 @@ const Experiences = () => (
     <h2 className="text-4xl text-center mb-5 font-semibold">Experience</h2>
     <div className="space-y-2">
       <span className="text-2xl font-bold text-center">Work</span>
-      <div className="space-y-1">
+      <div className="space-y-3">
+        <p>
+          <span className="font-semibold text-lg">Software Engineer</span>
+          <br />
+          <span className="italic">Sievo, Oct 2025 - Present</span>
+          <br />
+          <span>
+            Designing and delivering features end-to-end within an 11-person
+            cross-functional team building a global enterprise procurement
+            analytics platform. Leading feature design in collaboration with
+            PMs, designers and stakeholders.
+          </span>
+        </p>
         <p>
           <span className="font-semibold text-lg">Junior Software Engineer</span>
           <br />
-          <span className="italic">Sievo, May 2024 - present</span>
+          <span className="italic">Sievo, May 2024 - Oct 2025</span>
           <br />
           <span>
-            Developing diverse backend features for Sievo, a procurement analytics software. Working 
-            with modern Azure cloud technologies and microservices architecture in an enterprise 
-            level application. Furthermore, Collaborating in an agile team environment with 
-            frontend/backend engineers, analytics engineers, and product managers. I have been working 
-            part-time (from Sept. 2024 to now) alongside studies, showing ability to 
-            balance responsibility and commitments.
+            Built and maintained backend services in a large-scale environment,
+            gaining hands-on experience with enterprise platform operations and
+            CI/CD pipeline practices alongside core feature development.
           </span>
         </p>
         <p>
@@ -33,16 +42,17 @@ const Experiences = () => (
     </div>
     <div className="space-y-2">
       <span className="text-2xl font-bold text-center">Volunteer</span>
-      <div className="space-y-1">
+      <div className="space-y-3">
         <p>
           <span className="font-semibold text-lg">Head of Academic Affairs</span>
           <br />
           <span className="italic">Tietokilta ry, 2024</span>
           <br />
           <span>
-            I was a Board Member of the Guild of Computer Science students at Aalto University. 
-            In my role, I acted as a support person for the students of the guild and as a student 
-            advocate in matters related to Computer Science and the School of Science.
+            Student advocate on the board of the computer science student
+            association at Aalto. Collaborated with university administration
+            to improve academic policies and initiated a study tutor program,
+            onboarding ~20 tutors to support incoming freshmen.
           </span>
         </p>
         <p>

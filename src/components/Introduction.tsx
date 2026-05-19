@@ -7,11 +7,12 @@ const Hero = () => (
       <h2 className="font-bold text-3xl">Hi, I'm Elsa Schumacher!</h2>
       <br />
       <p>
-        I am a Master's student in Industrial Engineering and Management at Aalto University with 
-        a strong and diverse technical background! Having done my Bachelor's in Computer Science, 
-        I'm excited about the intersection of technology and business, especially product management, 
-        and how software solutions can drive innovation in different industries. I'm very hard-working 
-        with an analytical mindset, ask the right questions and have a passion for learning new things!
+        I'm a Software Engineer at Sievo based in Helsinki. I hold a B.Sc. in
+        Computer Science from Aalto University and am completing my M.Sc. in
+        Industrial Engineering and Management there in summer 2026. I love
+        building software end-to-end and am excited about the intersection of
+        technology and business — how good software can drive innovation and
+        efficiency across different industries.
       </p>
     </div>
   </section>
