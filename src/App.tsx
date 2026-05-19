@@ -1,6 +1,5 @@
 import Header from "./components/Header";
 import Hero from "./components/Introduction";
-import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 import Experiences from "./components/Experience";
 import Education from "./components/Education";
@@ -13,7 +12,6 @@ function App() {
       <main className="flex flex-col items-center gap-[8vh] my-6 md:my-24">
         <Hero />
         <Skills />
-        <Projects />
         <Experiences />
         <Education />
       </main>
